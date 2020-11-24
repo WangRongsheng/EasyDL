@@ -1,0 +1,19 @@
+<view class="container">
+<view class="img_wrap">
+    <image src="{{ img }}" mode='aspectFit'/>
+</view>
+<button bindtap="uploads" class="up">拍照/选取图片识别</button>
+  <view wx:if="{{result.length>0}}" class="table">
+      <view  class="tr bg-w">
+        <view class="th" >分类名称</view>
+        <view class="th" >置信度</view>
+      </view>
+    <view wx:for="{{result}}"wx:key="key">
+     <view class="tr bg-g">
+        <view class="td">{{item.name}}</view>
+        <view class="td">{{item.score}}</view>
+      </view>
+    </view>
+  </view>
+<text class='baikeform'>风吹麦浪中的河理工智慧</text>
+ </view>

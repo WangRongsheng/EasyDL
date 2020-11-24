@@ -1,0 +1,2 @@
+<!--pages/mypage/mypage.wxml-->
+<image class="TOP_ID_Image" src="../../image/crop_label.png">  </image>

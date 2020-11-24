@@ -1,0 +1,21 @@
+<!--pages/mypage/mypage.wxml-->
+<view class="indent-text" style="color:red">团队成员：</view>
+    <view class="indent-text">
+      王荣胜
+    </view>
+<view class="indent-text" style="color:red">任务分配：</view>
+    <view class="indent-text">
+      - 数据集收集与处理：王荣胜
+    </view>
+    <view class="indent-text">
+      - 模型训练：王荣胜
+    </view>
+    <view class="indent-text">
+      - 网页端实现：王荣胜
+    </view>
+    <view class="indent-text">
+      - 微信小程序端实现：王荣胜
+    </view>
+    <view class="indent-text">
+      - 微信公众号：王荣胜
+    </view>

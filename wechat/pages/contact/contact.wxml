@@ -1,0 +1,7 @@
+<!--pages/mypage/mypage.wxml-->
+  <view class="padding bg-white">
+    <view class="indent-text" style="color:red">QQ：</view>
+    <image class="TOP_ID_Image1" src="../../image/qq.jpg ">  </image>
+    <view class="indent-text" style="color:red">微信：</view>
+    <image class="TOP_ID_Image" src="../../image/wx.jpg ">  </image>
+  </view>

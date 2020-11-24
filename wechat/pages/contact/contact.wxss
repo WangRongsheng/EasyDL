@@ -1,0 +1,11 @@
+/* pages/mypage/mypage.wxss */
+/* pages/mypage/mypage.wxss */
+.TOP_ID_Image{/*设置上面的View里面的图片大小*/
+  width: 500rpx;
+  height: 500rpx;
+}
+
+.TOP_ID_Image1{/*设置上面的View里面的图片大小*/
+  width: 500rpx;
+  height: 500rpx;
+}

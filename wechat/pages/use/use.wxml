@@ -1,0 +1,12 @@
+<!--pages/mypage/mypage.wxml-->
+  <view class="padding bg-white">
+    <view class="indent-text" style="color:red">实现：</view>
+    <view class="indent-text">
+      1.EasyDL图像识别
+    </view>
+    <image class="TOP_ID_Image1" src="../../image/easydl.png ">  </image>
+    <view class="indent-text">
+      2.AI Change 2018标注数据
+    </view>
+    <image class="TOP_ID_Image" src="../../image/data.png ">  </image>
+  </view>

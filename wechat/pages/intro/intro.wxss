@@ -1,0 +1,6 @@
+/* pages/mypage/mypage.wxss */
+/* pages/mypage/mypage.wxss */
+.TOP_ID_Image{/*设置上面的View里面的图片大小*/
+  width: 750rpx;
+  height: 500rpx;
+}

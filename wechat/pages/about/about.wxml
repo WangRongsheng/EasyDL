@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="main"> <!--整体页面-->
+  <view class="TOP"> <!--最上面-->
+    <image class="TOP_ID_Image" src="../../image/home.png ">  </image>
+  </view>
+
+  <view class="middle"> <!--中间-->
+    <button bindtap="buttonClient1" class="button" style="background-image:url('https://s1.ax1x.com/2020/11/09/BHjhMn.png');"  > 标签 </button>
+    <button bindtap="buttonClient2" class="button" style="background-image:url('https://s1.ax1x.com/2020/11/09/BHjLRJ.png');"  > 项目 </button>
+    <button bindtap="buttonClient3" class="button" style="background-image:url('https://s1.ax1x.com/2020/11/09/BHjvs1.png');"  > 实现 </button>
+  </view>
+
+  <view class="bottom"> <!--最下面-->
+    <button bindtap="buttonClient4" class="button" style="background-image:url('https://s1.ax1x.com/2020/11/09/BHviJe.png');"  > 团队 </button>
+    <button bindtap="buttonClient5" class="button" style="background-image:url('https://s1.ax1x.com/2020/11/09/BHja2d.png');"  > 合作 </button>
+  </view>
+</view>
