@@ -155,6 +155,23 @@ python app.py
 python upload_pictures.py
 ```
 
+# 移动端部署
+
+1.点击下载[HBuilderX](https://www.dcloud.io/hbuilderx.html)
+![HBuilderX](./img/hbuilderx.png)
+下载App开发版
+![HBuilderX](./img/hbuilderx1.png)
+2.点击新建项目
+![HBuilderX](./img/hbuilderx2.png)
+3.填写相关参数创建项目
+![HBuilderX](./img/hbuilderx3.png)
+4.点击`mainfest.json`进行配置，点击`发行`->`原生APP-云打包`
+![HBuilderX](./img/hbuilderx4.png)
+5.填写相关参数进行打包
+![HBuilderX](./img/hbuilderx5.png)
+6.点击打开目录，查看打包后的apk，安装到安卓手机客户端
+![HBuilderX](./img/hbuilderx6.png)
+
 > 打开之后出现`NOT FOUNT` ，在端口后面加上`/upload`即可访问使用！
 
 # 小程序端部署
