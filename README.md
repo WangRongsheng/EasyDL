@@ -155,6 +155,8 @@ python app.py
 python upload_pictures.py
 ```
 
+> 打开之后出现`NOT FOUNT` ，在端口后面加上`/upload`即可访问使用！
+
 # 移动端部署
 
 1. 点击下载[HBuilderX](https://www.dcloud.io/hbuilderx.html)
@@ -171,8 +173,6 @@ python upload_pictures.py
 ![HBuilderX](./img/hbuilderx5.png)
 6. 点击打开目录，查看打包后的apk，安装到安卓手机客户端
 ![HBuilderX](./img/hbuilderx6.png)
-
-> 打开之后出现`NOT FOUNT` ，在端口后面加上`/upload`即可访问使用！
 
 # 小程序端部署
 
