@@ -9,6 +9,7 @@
 - `wechat`：微信小程序端部署；
 - `log.md`：训练相关信息
 - `android`：安卓端测试
+- `video_easydl`：视频流推断
 
 # 数据统计
 
