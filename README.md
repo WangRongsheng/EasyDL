@@ -7,9 +7,10 @@
 - `index1`：前端部署的其它版本；
 - `result`：四代模型对比测试图；
 - `wechat`：微信小程序端部署；
-- `log.md`：训练相关信息
-- `android`：安卓端测试
-- `video_easydl`：视频流推断
+- `log.md`：训练相关信息；
+- `android`：安卓端测试；
+- `video_easydl`：视频流推断；
+- `tuozhan`：基于easydl拓展的一些小功能
 
 # 数据统计
 
